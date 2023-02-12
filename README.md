@@ -1,11 +1,19 @@
 ### Hi there, I'm Michael 👋
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## I'm a Data Science MSc. student 💻
 
 - 📚 I'm currently pursuing a Double-Master's Degree
 - 🌱 I’m  learning everything related to the data science's field 
+- 💪🏼 Future Goals: learn everything about ML/AI and NLP
+---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31hqs43ydrwqmpwcwqgi2smy7jna&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
