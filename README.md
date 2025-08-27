@@ -11,12 +11,6 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31654d4mztth2wjxhfrpmz6tvzhe&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=0033ff)](https://spotify-github-profile.vercel.app/api/view?uid=31654d4mztth2wjxhfrpmz6tvzhe&redirect=true)
-
----
-
 ## Get in touch with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />][linkedin]
